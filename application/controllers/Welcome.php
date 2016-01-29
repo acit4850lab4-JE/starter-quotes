@@ -1,4 +1,10 @@
 <?php
+/**
+ * Feature 4: Elayne Boosler's quote page - shucks() method
+ * Author: Yi(Evelyn) Dai 
+ * Date: Jan 28, 2016
+ * -----------------------------------
+ */
 
 /**
  * Our homepage. Show a table of all the author pictures. Clicking on one should show their quote.
@@ -33,6 +39,19 @@ class Welcome extends Application {
 
 		$this->render();
 	}
+        
+        
+        function shucks(){
+                $this->data['pagebody'] = 'justone';	// show justone view
+		
+                
+                //get Elayne Boosler's quote
+                $record = $this->quotes->get('2');
+                
+                //Merge the record data into this.data
+                $this->data = array_merge($this->data, $record); 
+		$this->render();
+        }
 
 }
 

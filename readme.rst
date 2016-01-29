@@ -6,6 +6,36 @@ This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
 
+***********
+Team Member
+***********
+Jimmi Lin - Acknowledge
+Evelyn Dai
+
+***************
+Work Allocation
+***************
+Master: Jimmi
+
+work:
+    Jimmi:#1,3,5,7
+    Evelyn:#2.4.6.8
+*****************
+Coding convention
+*****************
+comment above the link that you fix with initial and date
+
+change log will be recorded in txt.
+
+Both change log and comment will follow example format below.
+
+/**
+ * Feature 1: first page
+ * Author: Jimmi Lin
+ * Date: Jan 28, 2016
+ * -----------------------------------
+ */
+
 **************
 Intended Usage
 **************

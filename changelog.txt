@@ -1,0 +1,47 @@
+*******************************
+*Change log of ACIT4850Lab4-JE*
+*******************************
+
+/**
+ * Feature 6
+ * Author: Evelyn Dai
+ * Date: Jan 28, 2016
+ * Description: fix the link to the fourth portrait
+ * -----------------------------------
+ * Feature 8
+ * Author: Evelyn Dai
+ * Date: Jan 29, 2016
+ * Description: fix the link to the sixth portrait
+ * -----------------------------------
+ * Feature 4
+ * Author: Evelyn Dai
+ * Date: Jan 28, 2016
+ * Description: fix the link to the second portrait
+ * -----------------------------------
+ * Feature 7
+ * Author: Jimmi Lin
+ * Date: Jan 28, 2016
+ * Description: fix the link to the fifth portrait
+ * -----------------------------------
+ * Feature 5
+ * Author: Jimmi Lin
+ * Date: Jan 28, 2016
+ * Description: fix the link to the third portrait
+ * -----------------------------------
+ * Feature 3
+ * Author: Jimmi Lin
+ * Date: Jan 29, 2016
+ * Description: fix the link to the first portrait
+ * -----------------------------------
+ * Feature 2
+ * Author: Evelyn Dai
+ * Date: Jan 28, 2016
+ * Description: fox the link of button last
+ * -----------------------------------
+ * Feature 1
+ * Author: Jimmi Lin
+ * Date: Jan 28, 2016
+ * Description: fix the link of button first
+ * -----------------------------------
+ */
+ 
